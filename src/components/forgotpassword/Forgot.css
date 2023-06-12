@@ -1,0 +1,25 @@
+.otp-container{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background-color: rgb(66, 49, 164);
+    color: rgb(255, 39, 111);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    background-color: rgb(252, 47, 81);
+    color: white;
+    padding: 5px;
+    border: none;
+}
+.otp-holder{
+    background-image: url('https://www.freecodecamp.org/news/content/images/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg');
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
